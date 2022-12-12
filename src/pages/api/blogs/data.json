@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Master the Ever Enduring Allure of the Winter Outfit",
+      "subtitle": "Vim an alterum complectitur",
+      "slug": "master-the-ever-enduring-allure-of-the-winter-outfit",
+      "introduction": "Fastidii appetere quaerendum mel te, te mundi disputationi pri, ei usu audiam disputando. Id vim mundi commodo. Habeo error usu et. Has te iusto populo albucius. Quo eros cibo intellegam ut, id possit maluisset duo.",
+      "date": "2022-11-30T23:00:00.000Z",
+      "coverImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670833822/large_winter_8ae8e1c1de.jpg",
+      "contentImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670833903/large_winter_Stockings_fa68e95d8d.jpg"
+    },
+    {
+      "id": "2",
+      "title": "4 Ways to Wear a Button-Up Shirt",
+      "subtitle": "Et probo autem novum eos",
+      "slug": "4-ways-to-wear-a-button-up-shirt",
+      "introduction": "Id est amet brute, nec impetus ornatus deterruisset te. Eam ne detraxit consequuntur, ea cum facer patrioque, ei vivendum delicata mel. Eu mea possim postulant, congue mandamus perpetua pri ne. Et probo autem novum eos, sea ex vidisse splendide.",
+      "date": "2022-10-31T23:00:00.000Z",
+      "coverImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670835090/large_shirt_img_01_0c91a69ed8.jpg",
+      "contentImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670835111/large_shirt_img_02_daf8b14e53.jpg"
+    },
+    {
+      "id": "3",
+      "title": "A Summer Staple",
+      "subtitle": "Vide singulis nominati ius cu",
+      "slug": "a-summer-staple",
+      "introduction": "An mel odio graeco aliquam, commodo regione per in. Vim an alterum complectitur, ad summo accusamus mel. Vide singulis nominati ius cu, utamur eligendi ea qui.",
+      "date": "2022-08-15T22:00:00.000Z",
+      "coverImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670835366/large_summer_img_01_208240d6d6.jpg",
+      "contentImage": "https://res.cloudinary.com/dt3k2apqd/image/upload/v1670835392/large_summer_img_02_749fabd334.jpg"
+    }
+  ]
+}
