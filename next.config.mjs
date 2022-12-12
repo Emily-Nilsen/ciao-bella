@@ -9,6 +9,11 @@ const nextConfig = {
   experimental: {
     scrollRestoration: true,
   },
+  images: {
+    minimumCacheTTL: 31536000,
+    domains: ['res.cloudinary.com', 'cdn.sanity.io'],
+    // unoptimized: true,
+  },
 }
 
 const withMDX = nextMDX({
